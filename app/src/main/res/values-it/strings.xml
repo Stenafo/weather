@@ -143,5 +143,4 @@
     <string name="dialog_add_tv">Per risultati di ricerca migliori, attiva la ricerca online tramite l'API photon nelle impostazioni</string>
     <string name="settings_temp_decimal">Mostra la temperatura con una cifra decimale</string>
     <string name="settings_darkmode">Modalità scura di Android 10+</string>
-
 </resources> 
